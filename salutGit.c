@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(){
+int main(void){
 	printf("\nSalut Git");
-	return 0;
 }
